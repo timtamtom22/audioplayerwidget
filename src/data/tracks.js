@@ -22,7 +22,7 @@ export default [
     thumbnail_url: "/public/images/np/asjb.jpg",
     description: "Intense synthwave which collapses into destruction, written for A.I.M",
     images: ["public/images/aim/lHGkTw.png", "public/images/aim/LuF2xY.png", "public/images/aim/NWqnsW.png" ]
-  }
+  },
   {
     id: 4,
     title: "Chiptune",
