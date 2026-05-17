@@ -19,7 +19,7 @@ export default [
     id: 3,
     title: "Synthwave Drift",
     audio_url: "/audio/aim.wav",
-    thumbnail_url: "/images/np/asjb.jpg",
+    thumbnail_url: "/images/aim/Hn65To.png",
     description: "Intense synthwave which collapses into destruction, written for A.I.M",
     images: ["/images/aim/lHGkTw.png", "/images/aim/LuF2xY.png", "/images/aim/NWqnsW.png"]
   },
